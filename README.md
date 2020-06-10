@@ -16,8 +16,8 @@ Di seguito una breve descrizione delle immagini che abbiamo scelto. Una volta sc
 
 ### Dracula
 
-![](dracula_libro.jpg)
-![](dracula_film.jpg)
+![](dracula_libro.jpg=500x)
+![](dracula_film.jpg=500x)
 
 ![Alt Text](http://downrightcreepy.com/wp-content/uploads/2020/01/dracula-outdoor-ad-2020.gif) 
 
