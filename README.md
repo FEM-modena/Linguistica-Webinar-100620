@@ -29,7 +29,7 @@ Vi proponiamo la copertina del libro di Sir Arthur Conan Doyle e un’immagine t
 
 ### Lo Hobbit
 
-Qui trovate la copertina della prima edizione del 1937 del romanzo di J.R.R. Tolkien e la locandina del film *Lo Hobbit - La desolazione di Smaug* del 2013. 
+Trovate la copertina della prima edizione del 1937 del romanzo di J.R.R. Tolkien e la locandina del film *Lo Hobbit - La desolazione di Smaug* del 2013. 
 
 ### Io, Robot
 
@@ -37,7 +37,7 @@ Da una parte la copertina della raccolta di racconti di fantascienza di Isaac As
 
 ### Sulla Strada
 
-Qui invece vi proponiamo la copertina del libro dello scrittore americano Jack Kerouac del 1951 e accanto la locandina del film omonimo uscito nel 2012.
+Vi proponiamo la copertina del libro dello scrittore americano Jack Kerouac del 1951 e accanto la locandina del film omonimo uscito nel 2012.
 
 ### Il Padrino
 
@@ -45,7 +45,7 @@ Vi proponiamo la copertina del primo romanzo della serie scritto da Mario Puzo n
 
 ### La Divina Commedia - Inferno
 
-Qui trovate la copertina dell’Inferno nell’edizione *grandi classici bur* e accanto un’immagine tratta dal videogioco *Dante’s Inferno* del 2010.
+Trovate la copertina dell’Inferno nell’edizione *grandi classici bur* e accanto un’immagine tratta dal videogioco *Dante’s Inferno* del 2010.
 
 ### Il Grande Gatsby
 
@@ -53,7 +53,7 @@ Da un lato la copertina del romanzo del 1925 di Francis Scott Fitzgerald e dall�
 
 ### 1984
 
-Qui abbiamo la copertina del libro di Orwell pubblicato nel 1949 per la Penguin Books e accanto la locandina del film omonimo uscito nel 1984. 
+Vi proponiamo la copertina del libro di Orwell pubblicato nel 1949 per la Penguin Books e accanto la locandina del film omonimo uscito nel 1984. 
 
 ### Il Libro della Giungla 
 
@@ -61,4 +61,4 @@ Infine, vi proponiamo la copertina della raccolta di storie di Rudyard Kipling (
 
 ## Vuoi saperne di più?
 
-Se l’attività di annotazione con la piattaforma **ThingLink** vi ha incuriosito, potete scrivere direttamente alla nostra docente Annamaria Bove!
+Se l’attività di annotazione con la piattaforma **ThingLink** vi ha incuriosito, potete scrivere direttamente alla nostra docente [Annamaria Bove](mailto:annamaria@fem.digital)!
