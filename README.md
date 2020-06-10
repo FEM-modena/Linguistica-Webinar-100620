@@ -16,8 +16,8 @@ Di seguito una breve descrizione delle immagini che abbiamo scelto. Una volta sc
 
 ### Dracula
 
-<img src="dracula_libro.jpg" width="450" height="550">
-<img src="dracula_film.jpg" width="450" height="550">
+<img src="dracula_libro.jpg" width="400" height="500">
+<img src="dracula_film.jpg" width="400" height="500">
 
 ![Alt Text](http://downrightcreepy.com/wp-content/uploads/2020/01/dracula-outdoor-ad-2020.gif) 
 
