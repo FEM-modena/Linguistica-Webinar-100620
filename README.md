@@ -1,6 +1,4 @@
 # Linguistica-Webinar-100620
-https://fem-modena.github.io/Linguistica-Webinar-030620/ 
-Testo per pagina github del webinar
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" integrity="sha256-KzZiKy0DWYsnwMF+X1DvQngQ2/FxF7MF3Ff72XcpuPs=" crossorigin="anonymous"></script>
 
 <a href="https://fem.digital" rel="FEM Future Education Modena" target="_blank">![](FEM_Logo.png)</a>
@@ -18,8 +16,8 @@ Di seguito una breve descrizione delle immagini che abbiamo scelto. Una volta sc
 
 ### Dracula
 
-![](dracula_libro.JPG)
-![](dracula_film.JPG)
+![](dracula_libro.jpg)
+![](dracula_film.jpg)
 
 ![Alt Text](http://downrightcreepy.com/wp-content/uploads/2020/01/dracula-outdoor-ad-2020.gif) 
 
