@@ -18,10 +18,8 @@ Di seguito una breve descrizione delle immagini che abbiamo scelto. Una volta sc
 
 ### Dracula
 
----METTERE LE DUE IMMAGINI DI DRACULA + GIF---
-
-![]()
-![]()
+![](dracula_libro.JPG)
+![](dracula_film.JPG)
 
 ![Alt Text](http://downrightcreepy.com/wp-content/uploads/2020/01/dracula-outdoor-ad-2020.gif) 
 
